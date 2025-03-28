@@ -1,0 +1,3 @@
+#!/bin/sh
+
+go build -o acme_client cmd/account.go cmd/acme_client.go cmd/certificate.go cmd/challenges.go cmd/dir.go cmd/nonce.go cmd/order.go cmd/revoke.go

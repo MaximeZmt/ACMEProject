@@ -1,0 +1,1 @@
+openssl s_client -connect example.com:5001 -CAfile "C:\Users\LocalAccount\Desktop\Etudes\Cours\Master\Zurich\Network Security\mzammit-acme-project\project\pebble.minica.pem"
